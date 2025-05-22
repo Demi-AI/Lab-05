@@ -118,6 +118,10 @@ FD5: ISBN → 作者 (多值相依，一本書可能有多位作者)
 
 繪製最終的實體關係圖 (ERD)。
 
+* 繪圖工具：**dbdiagram.io**
+    * 依照上面的 **ERD 結構**，轉成 dbdiagram.io 的 DSL 語法，就可以直接生成**實體關係圖 (ERD)**。
+    * 連結：[https://dbdiagram.io](https://dbdiagram.io)
+
 ![圖片描述](./Lab-05_1.png)
 
 ---
