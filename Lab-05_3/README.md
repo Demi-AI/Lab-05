@@ -136,4 +136,11 @@ FD7: (學號, 課程代碼, 學期, 講師編號) → 成績
 
 繪製最終的實體關係圖 (ERD)。
 
+* 繪圖工具：**dbdiagram.io**
+    * 依照上面的 **ERD 結構**，轉成 dbdiagram.io 的 DSL 語法，就可以直接生成**實體關係圖 (ERD)**。
+    * 連結：[https://dbdiagram.io](https://dbdiagram.io)
+
+![圖片描述](./Lab-05_3.png)
+
 ---
+
